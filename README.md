@@ -39,28 +39,38 @@ Spis treści:
 Spis treści:
 
 1.  Zarys historii informatyki
+
     a.  Główne kierunki badań w informatyce współczesnej
+
 2.  Organizacja współczesnych komputerów
+
 3.  Zmienne w języku C++ i ich typy
+
     a.  Pojęcie zmiennej
     b.  Typy liczbowe
     c.  Identyfikatory
     d.  Deklaracja zmiennych
     e.  Operator przypisania
     f.  Rzutowanie (konwersja) typów. Hierarchia typów
+
 4.  Operatory
+
     a.  Operatory arytmetyczne
     b.  Operatory relacyjne
     c.  Operatory logiczne
     d.  Operatory bitowe (\*)
     e.  Operatory łączone
     f.  Priorytety operatorów
+
 5.  Reprezentacja liczb całkowitych (\*)
+
     a.  System dziesiętny (\*)
     b.  System dwójkowy (\*)
     c.  System szesnastkowy (\*)
     d.  System U2 reprezentacji liczb ze znakiem (\*)
+
 6.  Ćwiczenia
+
 7.  Wskazówki i odpowiedzi do ćwiczeń
 
 
