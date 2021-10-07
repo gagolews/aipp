@@ -82,22 +82,22 @@ Spis treści:
 Spis treści:
 
 1.  Instrukcje sterujące
-    a.  Bezpośrednie następstwo instrukcji
-    b.  Instrukcja warunkowa if
-    c.  Pętle
+    1.  Bezpośrednie następstwo instrukcji
+    2.  Instrukcja warunkowa if
+    3.  Pętle
 2.  Struktury, czyli typy złożone
 3.  Funkcje -- informacje podstawowe
-    a.  Funkcje w matematyce
-    b.  Definiowanie funkcji w języku C++
-    c.  Wywołanie funkcji
-    d.  Zasięg zmiennych
-    e.  Przekazywanie parametrów przez referencję
-    f.  Argumenty domyślne
-    g.  Przeciążanie funkcji
+    1.  Funkcje w matematyce
+    2.  Definiowanie funkcji w języku C++
+    3.  Wywołanie funkcji
+    4.  Zasięg zmiennych
+    5.  Przekazywanie parametrów przez referencję
+    6.  Argumenty domyślne
+    7.  Przeciążanie funkcji
 4.  Przegląd funkcji z biblioteki języka C
-    a.  Funkcje matematyczne
-    b.  Liczby pseudolosowe
-    c.  Asercje
+    1.  Funkcje matematyczne
+    2.  Liczby pseudolosowe
+    3.  Asercje
 5.  Ćwiczenia
 6.  Wskazówki i odpowiedzi do ćwiczeń
 
@@ -110,16 +110,16 @@ Spis treści:
 Spis treści:
 
 1.  Dynamiczna alokacja pamięci
-    a.  Organizacja pamięci komputera
-    b.  Wskaźniki
-    c.  Przydział i zwalnianie pamięci ze sterty
-    d.  Tablice
-    e.  Przekazywanie tablic funkcjom
+    1.  Organizacja pamięci komputera
+    2.  Wskaźniki
+    3.  Przydział i zwalnianie pamięci ze sterty
+    4.  Tablice
+    5.  Przekazywanie tablic funkcjom
 2.  Proste algorytmy sortowania tablic
-    a.  Sortowanie przez wybór
-    b.  Sortowanie przez wstawianie
-    c.  Sortowanie bąbelkowe
-    d.  Efektywność obliczeniowa
+    1.  Sortowanie przez wybór
+    2.  Sortowanie przez wstawianie
+    3.  Sortowanie bąbelkowe
+    4.  Efektywność obliczeniowa
 3.  Ćwiczenia
 4.  Wskazówki i odpowiedzi do ćwiczeń
 
@@ -133,15 +133,15 @@ Spis treści:
 Spis treści:
 
 1.  Rekurencja
-    a.  Przykład: silnia
-    b.  Przykład: NWD
-    c.  Przykład: wieże z Hanoi
-    d.  Przykład (niemądry): liczby Fibonacciego
+    1.  Przykład: silnia
+    2.  Przykład: NWD
+    3.  Przykład: wieże z Hanoi
+    4.  Przykład (niemądry): liczby Fibonacciego
 2.  Podstawowe abstrakcyjne typy danych
-    a.  Stos
-    b.  Kolejka
-    c.  Kolejka priorytetowa
-    d.  Słownik
+    1.  Stos
+    2.  Kolejka
+    3.  Kolejka priorytetowa
+    4.  Słownik
 3.  Ćwiczenia
 
 
@@ -154,19 +154,19 @@ Spis treści:
 
 1.  Własne biblioteki funkcji
 2.  Napisy (ciągi znaków)
-    a.  Kod ASCII
-    b.  Reprezentacja napisów (ciągów znaków)
-    c.  Operacje na napisach
-    d.  Biblioteka cstring
+    1.  Kod ASCII
+    2.  Reprezentacja napisów (ciągów znaków)
+    3.  Operacje na napisach
+    4.  Biblioteka cstring
 3.  Reprezentacja macierzy
 4.  Przykładowe algorytmy z wykorzystaniem macierzy
-    a.  Mnożenie wiersza macierzy przez stałą
-    b.  Odejmowanie wiersza macierzy od innego pomnożonego przez stałą
-    c.  Zamiana dwóch kolumn
-    d.  Wiersz z największym co do modułu elementem w kolumnie
-    e.  Dodawanie macierzy
-    f.  Mnożenie macierzy
-    g.  Rozwiązywanie układów równań liniowych
+    1.  Mnożenie wiersza macierzy przez stałą
+    2.  Odejmowanie wiersza macierzy od innego pomnożonego przez stałą
+    3.  Zamiana dwóch kolumn
+    4.  Wiersz z największym co do modułu elementem w kolumnie
+    5.  Dodawanie macierzy
+    6.  Mnożenie macierzy
+    7.  Rozwiązywanie układów równań liniowych
 5.  Ćwiczenia
 6.  Wskazówki i odpowiedzi do ćwiczeń
 
