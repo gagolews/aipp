@@ -21,12 +21,12 @@ Spis treści:
 
 1.  Wprowadzenie
 2.  Etapy tworzenia oprogramowania
-    a.  Sformułowanie i analiza problemu
-    b.  Projektowanie
-    c.  Implementacja
-    d.  Testowanie
-    e.  Eksploatacja
-    f.  Podsumowanie
+    1.  Sformułowanie i analiza problemu
+    2.  Projektowanie
+    3.  Implementacja
+    4.  Testowanie
+    5.  Eksploatacja
+    6.  Podsumowanie
 3.  Ćwiczenia
 4.  Wskazówki i odpowiedzi do ćwiczeń
 
