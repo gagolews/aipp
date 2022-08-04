@@ -1,17 +1,31 @@
 cff-version: 1.2.0
-message: "Please cite this book as below."
+message: "Dane bibliograficzne:"
+title: "Algorytmy i podstawy programowania w języku C++"
+doi: 10.5281/zenodo.6451054
+repository-code: "https://github.com/gagolews/aipp"
+abstract: >
+    Skrypt do wykładu z Algorytmów i podstaw programowania
+    w języku C++ (wraz z przykładowymi zadaniami na ćwiczenia i laboratoria),
+    prowadzonego w latach 2010–2016 na Wydziale Matematyki i Nauk
+    Informacyjnych Politechniki Warszawskiej dla studentów I roku
+    kierunku Matematyka. Książka dystrybuowana jest bezpłatnie.
+    Ze względu na niemalejące zainteresowanie tą publikacją, jej treść
+    odświeżyłem w 2022 r.
 authors:
   - family-names: Gagolewski
     given-names: Marek
     orcid: "https://orcid.org/0000-0003-0637-6028"
-repository-code: "https://github.com/gagolews/aipp"
-title: "Algorytmy i podstawy programowania w języku C++"
+    website: "https://www.gagolewski.com"
 preferred-citation:
     type: book
     year: 2022
     title: "Algorytmy i podstawy programowania w języku C++"
     doi: 10.5281/zenodo.6451054
+    publisher:
+      name: Zenodo
+      city: Warsaw
     authors:
-    -   family-names: Gagolewski
+      - family-names: Gagolewski
         given-names: Marek
         orcid: "https://orcid.org/0000-0003-0637-6028"
+        website: "https://www.gagolewski.com"
