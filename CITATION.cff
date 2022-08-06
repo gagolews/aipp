@@ -9,8 +9,6 @@ abstract: >
     prowadzonego w latach 2010–2016 na Wydziale Matematyki i Nauk
     Informacyjnych Politechniki Warszawskiej dla studentów I roku
     kierunku Matematyka. Książka dystrybuowana jest bezpłatnie.
-    Ze względu na niemalejące zainteresowanie tą publikacją, jej treść
-    odświeżyłem w 2022 r.
 authors:
   - family-names: Gagolewski
     given-names: Marek
@@ -23,7 +21,7 @@ preferred-citation:
     doi: 10.5281/zenodo.6451054
     publisher:
       name: Zenodo
-      city: Warsaw
+      city: Melbourne
     authors:
       - family-names: Gagolewski
         given-names: Marek
