@@ -5,10 +5,11 @@ doi: 10.5281/zenodo.6451054
 repository-code: "https://github.com/gagolews/aipp"
 abstract: >
     Skrypt do wykładu z Algorytmów i podstaw programowania
-    w języku C++ (wraz z przykładowymi zadaniami na ćwiczenia i laboratoria),
-    prowadzonego w latach 2010–2016 na Wydziale Matematyki i Nauk
-    Informacyjnych Politechniki Warszawskiej dla studentów I roku
-    kierunku Matematyka. Książka dystrybuowana jest bezpłatnie.
+    w języku C++, prowadzonego w latach 2010–2016 na Wydziale Matematyki
+    i Nauk Informacyjnych Politechniki Warszawskiej dla studentów I roku
+    kierunku Matematyka.
+    Zawiera wiele przykładowych zadaniań na ćwiczenia
+    i laboratoria. Książka dystrybuowana jest bezpłatnie.
 authors:
   - family-names: Gagolewski
     given-names: Marek

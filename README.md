@@ -5,16 +5,18 @@
 
 [M. Gągolewski](https://www.gagolewski.com),
 [Algorytmy i podstawy programowania w języku C++](aipp.pdf),
-Zenodo, Melbourne, 2022, 204 s.,
+Zenodo, Melbourne, 2022, 209 s.,
 DOI:[10.5281/zenodo.6451054](https://dx.doi.org/10.5281/zenodo.6451054),
 ISBN: xxx-xx-xxxxxx-x-x.
 
 [Oto](aipp.pdf) skrypt do wykładu z Algorytmów i podstaw programowania
-w języku C++ (wraz z przykładowymi zadaniami na ćwiczenia i laboratoria),
-który prowadziłem w latach 2010–2016 na
+w języku C++, który prowadziłem w latach 2010–2016 na
 [Wydziale Matematyki i Nauk Informacyjnych](http://www.mini.pw.edu.pl)
 Politechniki Warszawskiej.
 Słuchaczami byli głównie studenci I roku kierunku Matematyka.
+
+Zawiera wiele przykładowych zadaniań na ćwiczenia
+i laboratoria.
 
 Książka jest dystrybuowana oczywiście bezpłatnie.
 Ze względu na ciągłe zainteresowanie tą publikacją, jej treść
