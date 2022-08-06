@@ -1,6 +1,7 @@
-# Algorytmy i podstawy programowania w języku C++ (in Polish)
+<img src="aipp-okladka.png" align="right" height="312" />
 
-<img src="aipp-okladka.png" align="right" height="234" />
+# Algorytmy i podstawy programowania w języku C++ (in Polish)
+
 
 [M. Gągolewski](https://www.gagolewski.com),
 [Algorytmy i podstawy programowania w języku C++](aipp.pdf),
