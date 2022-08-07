@@ -15,8 +15,7 @@ w języku C++, który prowadziłem w latach 2010–2016 na
 Politechniki Warszawskiej.
 Słuchaczami byli głównie studenci I roku kierunku Matematyka.
 
-Zawiera wiele przykładowych zadaniań na ćwiczenia
-i laboratoria.
+Zawiera wiele przykładowych zadań na ćwiczenia i laboratoria.
 
 Książka jest dystrybuowana oczywiście bezpłatnie.
 Ze względu na ciągłe zainteresowanie tą publikacją, jej treść
