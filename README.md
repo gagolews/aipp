@@ -1,13 +1,13 @@
-<img src="aipp-okladka.png" align="right" height="312" />
 
 # Algorytmy i podstawy programowania w języku C++ (in Polish)
 
+<img src="aipp-okladka.png" align="right" height="234" />
 
 [M. Gągolewski](https://www.gagolewski.com),
 [Algorytmy i podstawy programowania w języku C++](aipp.pdf),
 Zenodo, Melbourne, 2022, 209 s.,
 DOI:[10.5281/zenodo.6451054](https://dx.doi.org/10.5281/zenodo.6451054),
-ISBN: xxx-xx-xxxxxx-x-x.
+ISBN: 978-0-6455719-0-5.
 
 [Oto](aipp.pdf) skrypt do wykładu z Algorytmów i podstaw programowania
 w języku C++, który prowadziłem w latach 2010–2016 na
